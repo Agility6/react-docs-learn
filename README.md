@@ -17,20 +17,20 @@
 - [x] Building the board
 - [x] Passing data through props
 - [x] Making an interactive component
-- [] React Developer Tools
+- [ ] React Developer Tools
 
 - **Completing the game**
-- [] Lifting state up 
-- [] Why immutability is important 
-- [] Taking turns
-- [] Declaring a winner 
+- [ ] Lifting state up 
+- [ ] Why immutability is important 
+- [ ] Taking turns
+- [ ] Declaring a winner 
 
 - **Adding time travel**
-- [] Storing a history of moves 
-- [] Lifting state up, again
-- [] Showing the past moves
-- [] Picking a key 
-- [] Implementing time travel 
-- [] Final cleanup
-- [] Wrapping up 
-- [] 🎉🎉🎉
+- [ ] Storing a history of moves 
+- [ ] Lifting state up, again
+- [ ] Showing the past moves
+- [ ] Picking a key 
+- [ ] Implementing time travel 
+- [ ] Final cleanup
+- [ ] Wrapping up 
+- [ ] 🎉🎉🎉
