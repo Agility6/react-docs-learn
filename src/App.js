@@ -5,6 +5,7 @@ import Lists from './components/Lists'
 import Conditional from './components/Conditional'
 import Image from './components/Image'
 import Arithmometer from './components/Arithmometer'
+import Board from './components/TicTacToe/Board'
 
 function MyButton2({count, onClick}) {
   return (
@@ -25,7 +26,8 @@ function App() {
 
   return (
     <div>
-      <h1 className='title'>Welcome to my app</h1>
+
+      {/* <h1 className='title'>Welcome to my app</h1>
       <MyButton />
       <Image />
       <Conditional />
@@ -35,7 +37,11 @@ function App() {
       <Arithmometer />
       <h2>Sharing data between components</h2>
       <MyButton2 count={count} onClick={handleClick} />
-      <MyButton2 count={count} onClick={handleClick} />
+      <MyButton2 count={count} onClick={handleClick} /> */}
+      
+      <div>
+        <Board />
+      </div>
     </div>
   );
 }
