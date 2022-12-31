@@ -26,11 +26,11 @@
 - [x] Declaring a winner 
 
 - **Adding time travel**
-- [ ] Storing a history of moves 
-- [ ] Lifting state up, again
-- [ ] Showing the past moves
-- [ ] Picking a key 
-- [ ] Implementing time travel 
-- [ ] Final cleanup
-- [ ] Wrapping up 
-- [ ] 🎉🎉🎉
+- [x] Storing a history of moves 
+- [x] Lifting state up, again
+- [x] Showing the past moves
+- [x] Picking a key 
+- [x] Implementing time travel 
+- [x] Final cleanup
+- [x] Wrapping up 
+- [x] 🎉🎉🎉
